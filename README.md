@@ -8,4 +8,12 @@ WIP
 
 ## Mewsli-9 results
 
-TBA
+ar 56.3
+de
+en
+es 64.2
+fa
+ja
+sr
+ta
+tr
