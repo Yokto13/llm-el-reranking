@@ -81,8 +81,6 @@ class Reranker:
         )
 
         content = outputs[0]["generated_text"][-1]["content"]
-        print(messages)
-        print(content)
 
         try:
             content = content.split("Start")[1].split("End")[0]
