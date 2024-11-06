@@ -14,11 +14,11 @@ Currently, the code expects data from my [other project](https://github.com/yokt
 | Lang | R@1  | Upper bound |
 |------|------|-------------|
 | ar   | 56.3 | TBA        |
-| de   | TBA  | TBA        |
+| de   | 65.8 | TBA        |
 | en   | 65.3 | TBA        |
 | es   | 64.2 | TBA        |
-| fa   | TBA  | TBA        |
-| ja   | TBA  | TBA        |
-| sr   | TBA  | TBA        |
-| ta   | TBA  | TBA        |
-| tr   | TBA  | TBA        |
+| fa   | 65.8 | TBA        |
+| ja   | 47.4 | TBA        |
+| sr   | 70.5 | TBA        |
+| ta   | 57.1 | TBA        |
+| tr   | 55.7 | TBA        |
